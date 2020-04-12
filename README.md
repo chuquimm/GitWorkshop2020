@@ -1,7 +1,7 @@
 # Git Workshop 2020
 
-Este workshop esta orientado a iniciar a los desarrolladores al uso de Git (como sistema de control de versiones) en conjunto con GitHub, para así poder mantener sus propios proyectos o participar en proyectos Open Source. 
-Para cumplir este proposito editaremos una plantilla web (no se necesitan muchos conocimiento web), buscando que los estudiantes se familiarecen con las herramientas.
+Este workshop esta orientado a iniciar a los desarrolladores al uso de [Git](https://git-scm.com/) (como sistema de control de versiones) en conjunto con GitHub, para así poder mantener sus propios proyectos o participar en proyectos Open Source. 
+Para cumplir este proposito editaremos una plantilla web (no se necesitan muchos conocimiento web) y la publicaremos usando [GitHub Pages](https://pages.github.com/), buscando que los estudiantes se familiarecen con las herramientas.
 Se usa la plantilla [Ramirez](https://colorlib.com/wp/template/ramirez/)
 
 ## Syllabus
